@@ -7,7 +7,9 @@ This script takes input from a youtube music playlist copy+paste job and puts it
 Point the script at a target, and it will convert it into a csv. Output file is optional:
 
 ```shell
-python ytm_to_csv.py ytm_copy_paste.txt optional_output_file.csv
+python ytm_to_csv.py \
+       ytm_copy_paste.txt \
+       optional_output_file.csv
 ```
 
 You can also import the function into a script for iterative use:
