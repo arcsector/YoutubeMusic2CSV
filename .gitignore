@@ -2,3 +2,7 @@ ytm.csv
 ytm.txt
 new_py.py
 *.pyc
+__pycache__/**
+pycache/**
+__build__/**
+build/**

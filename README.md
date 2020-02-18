@@ -4,6 +4,10 @@ This script takes input from a youtube music playlist copy+paste job and puts it
 
 ## How to use
 
+First, copy your playlist into a text file. *Note* that only the songs have been selected for copy+paste, not the header or footer data:
+
+<img src="https://raw.githubusercontent.com/arcsector/YoutubeMusic2CSV/master/.github/ytm.png">
+
 Point the script at a target, and it will convert it into a csv. Output file is optional:
 
 ```shell
